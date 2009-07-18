@@ -1,0 +1,18 @@
+<p>
+  <b>Latitude:</b>
+  <%=h @photo.latitude %>
+</p>
+
+<p>
+  <b>Longitude:</b>
+  <%=h @photo.longitude %>
+</p>
+
+<p>
+  <b>Url:</b>
+  <%=h @photo.url %>
+</p>
+
+
+<%= link_to 'Edit', edit_photo_path(@photo) %> |
+<%= link_to 'Back', photos_path %>

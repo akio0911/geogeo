@@ -1,0 +1,24 @@
+<h1>Listing photos</h1>
+
+<table>
+  <tr>
+    <th>Latitude</th>
+    <th>Longitude</th>
+    <th>Url</th>
+  </tr>
+
+<% @photos.each do |photo| %>
+  <tr>
+    <td><%=h photo.latitude %></td>
+    <td><%=h photo.longitude %></td>
+    <td><%=h photo.url %></td>
+    <td><%= link_to 'Show', photo %></td>
+    <td><%= link_to 'Edit', edit_photo_path(photo) %></td>
+    <td><%= link_to 'Destroy', photo, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New photo', new_photo_path %>
