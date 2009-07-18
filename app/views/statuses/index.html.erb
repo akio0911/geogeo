@@ -1,0 +1,26 @@
+<h1>Listing statuses</h1>
+
+<table>
+  <tr>
+    <th>Latitude</th>
+    <th>Longitude</th>
+    <th>Url</th>
+    <th>Status text</th>
+  </tr>
+
+<% @statuses.each do |status| %>
+  <tr>
+    <td><%=h status.latitude %></td>
+    <td><%=h status.longitude %></td>
+    <td><%=h status.url %></td>
+    <td><%=h status.status_text %></td>
+    <td><%= link_to 'Show', status %></td>
+    <td><%= link_to 'Edit', edit_status_path(status) %></td>
+    <td><%= link_to 'Destroy', status, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New status', new_status_path %>

@@ -1,0 +1,23 @@
+<p>
+  <b>Latitude:</b>
+  <%=h @status.latitude %>
+</p>
+
+<p>
+  <b>Longitude:</b>
+  <%=h @status.longitude %>
+</p>
+
+<p>
+  <b>Url:</b>
+  <%=h @status.url %>
+</p>
+
+<p>
+  <b>Status text:</b>
+  <%=h @status.status_text %>
+</p>
+
+
+<%= link_to 'Edit', edit_status_path(@status) %> |
+<%= link_to 'Back', statuses_path %>
