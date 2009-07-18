@@ -1,4 +1,6 @@
 ActionController::Routing::Routes.draw do |map|
+  map.root :controller=> "portal"
+
   map.resources :statuses
 
   map.resources :photos
