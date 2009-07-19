@@ -6,6 +6,7 @@
     <th>Longitude</th>
     <th>Url</th>
     <th>Status text</th>
+    <th>User</th>
   </tr>
 
 <% @statuses.each do |status| %>
@@ -14,6 +15,7 @@
     <td><%=h status.longitude %></td>
     <td><%=h status.url %></td>
     <td><%=h status.status_text %></td>
+    <td><%=h "#{status.user_id}:#{status.user.name}" %></td>
     <td><%= link_to 'Show', status %></td>
     <td><%= link_to 'Edit', edit_status_path(status) %></td>
     <td><%= link_to 'Destroy', status, :confirm => 'Are you sure?', :method => :delete %></td>

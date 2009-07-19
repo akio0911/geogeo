@@ -17,6 +17,14 @@
   <b>Status text:</b>
   <%=h @status.status_text %>
 </p>
+<p>
+  <b>UserID:</b>
+  <%=h @status.user_id %>
+</p>
+<p>
+  <b>UserName:</b>
+  <%=h @status.user.name %>
+</p>
 
 
 <%= link_to 'Edit', edit_status_path(@status) %> |

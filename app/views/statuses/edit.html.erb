@@ -20,6 +20,10 @@
     <%= f.text_area :status_text %>
   </p>
   <p>
+    <%= f.label :user_id %><br />
+    <%= f.select :user_id, User.find(:all).map{|u|["#{u.id}:#{u.name}",u.id]} %>
+  </p>
+  <p>
     <%= f.submit 'Update' %>
   </p>
 <% end %>
