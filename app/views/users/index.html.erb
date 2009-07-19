@@ -5,6 +5,7 @@
     <th>Name</th>
     <th>Twitter</th>
     <th>Flickr</th>
+    <th>Flickr Feed</th>
     <th>Group</th>
   </tr>
 
@@ -13,6 +14,7 @@
     <td><%=h user.name %></td>
     <td><%=h user.twitter_id %></td>
     <td><%=h user.flickr_id %></td>
+    <td><%=h user.flickr_feed_url %></td>
     <td><%=h "#{user.group_id}:#{user.group.name}" %></td>
     <td><%= link_to 'Show', user %></td>
     <td><%= link_to 'Edit', edit_user_path(user) %></td>

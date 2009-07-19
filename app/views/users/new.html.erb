@@ -16,6 +16,10 @@
     <%= f.text_field :flickr_id %>
   </p>
   <p>
+    <%= f.label :flickr_feed_url %><br />
+    <%= f.text_field :flickr_feed_url %>
+  </p>
+  <p>
     <%= f.label :group_id %><br />
     <%= f.select :group_id, Group.find(:all).map{|g|["#{g.id}:#{g.name}",g.id]} %>
   </p>
