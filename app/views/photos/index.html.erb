@@ -5,6 +5,7 @@
     <th>Latitude</th>
     <th>Longitude</th>
     <th>Url</th>
+    <th>User</th>
   </tr>
 
 <% @photos.each do |photo| %>
@@ -12,6 +13,7 @@
     <td><%=h photo.latitude %></td>
     <td><%=h photo.longitude %></td>
     <td><%=h photo.url %></td>
+    <td><%=h "#{photo.user_id}:#{photo.user.name}" %></td>
     <td><%= link_to 'Show', photo %></td>
     <td><%= link_to 'Edit', edit_photo_path(photo) %></td>
     <td><%= link_to 'Destroy', photo, :confirm => 'Are you sure?', :method => :delete %></td>
