@@ -10,6 +10,14 @@
   <b>FlickrID:</b>
   <%=h @user.flickr_id %>
 </p>
+<p>
+  <b>GroupID:</b>
+  <%=h @user.group_id %>
+</p>
+<p>
+  <b>GroupName:</b>
+  <%=h @user.group.name %>
+</p>
 
 
 <%= link_to 'Edit', edit_user_path(@user) %> |
