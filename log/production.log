@@ -1120,3 +1120,2820 @@ Processing PhotosController#index (for 114.162.212.17 at 2009-07-20 18:08:28) [G
 Rendering template within layouts/photos
 Rendering photos/index
 Completed in 250ms (View: 215, DB: 24) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing GroupsController#new (for 150.93.193.10 at 2009-07-20 18:09:09) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing PhotosController#index (for 114.48.23.11 at 2009-07-20 18:09:24) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 229ms (View: 195, DB: 23) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing PhotosController#index (for 118.12.4.203 at 2009-07-20 18:09:54) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 238ms (View: 203, DB: 25) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing GroupsController#new (for 150.93.193.10 at 2009-07-20 18:10:20) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing ApplicationController#index (for 67.207.201.151 at 2009-07-20 18:10:53) [GET]
+
+ActionController::RoutingError (No route matches "/%20" with {:method=>:get}):
+  passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+  passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/404.html (404 Not Found)
+
+
+Processing ApplicationController#index (for 67.207.201.140 at 2009-07-20 18:10:53) [GET]
+
+ActionController::RoutingError (No route matches "/%20" with {:method=>:get}):
+  passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+  passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/404.html (404 Not Found)
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:11:17) [GET]
+Rendering portal/index
+Completed in 9075ms (View: 6393, DB: 2678) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.48.193.218 at 2009-07-20 18:11:18) [GET]
+Rendering portal/index
+Completed in 10085ms (View: 6343, DB: 3737) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 219.94.177.41 at 2009-07-20 18:11:25) [GET]
+Rendering portal/index
+Completed in 6480ms (View: 4935, DB: 1524) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing ApplicationController#index (for 67.207.201.150 at 2009-07-20 18:11:54) [GET]
+
+ActionController::RoutingError (No route matches "/%20" with {:method=>:get}):
+  passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+  passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/404.html (404 Not Found)
+
+
+Processing GroupsController#index (for 114.48.63.173 at 2009-07-20 18:12:25) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#index (for 150.93.193.10 at 2009-07-20 18:12:29) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#create (for 150.93.193.10 at 2009-07-20 18:12:29) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "group"=>{"name"=>"B"}}
+Redirected to http://geogeo.yuiseki.net/groups/2
+Completed in 127ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#show (for 150.93.193.10 at 2009-07-20 18:12:30) [GET]
+  Parameters: {"id"=>"2"}
+Rendering template within layouts/groups
+Rendering groups/show
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/2]
+
+
+Processing GroupsController#new (for 114.48.63.173 at 2009-07-20 18:12:34) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing GroupsController#index (for 114.48.63.173 at 2009-07-20 18:12:37) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#new (for 150.93.193.10 at 2009-07-20 18:12:39) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing GroupsController#index (for 150.93.193.10 at 2009-07-20 18:12:44) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#index (for 150.93.193.10 at 2009-07-20 18:13:05) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#index (for 150.93.193.10 at 2009-07-20 18:13:08) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing ApplicationController#index (for 67.207.201.150 at 2009-07-20 18:13:34) [GET]
+
+ActionController::RoutingError (No route matches "/%20" with {:method=>:get}):
+  passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+  passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/404.html (404 Not Found)
+
+
+Processing ApplicationController#index (for 67.207.201.151 at 2009-07-20 18:13:37) [GET]
+
+ActionController::RoutingError (No route matches "/%20" with {:method=>:get}):
+  passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+  passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/404.html (404 Not Found)
+
+
+Processing GroupsController#index (for 150.93.193.10 at 2009-07-20 18:14:37) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#create (for 150.93.193.10 at 2009-07-20 18:14:54) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "group"=>{"name"=>"超いんちきじゃねーか"}}
+Redirected to http://geogeo.yuiseki.net/groups/3
+Completed in 161ms (DB: 19) | 302 Found [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#show (for 150.93.193.10 at 2009-07-20 18:14:55) [GET]
+  Parameters: {"id"=>"3"}
+Rendering template within layouts/groups
+Rendering groups/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/3]
+
+
+Processing GroupsController#index (for 150.93.193.10 at 2009-07-20 18:14:58) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 5ms (View: 4, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#index (for 150.93.193.10 at 2009-07-20 18:15:14) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 6ms (View: 4, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:17:15) [GET]
+Rendering portal/index
+Completed in 12223ms (View: 8213, DB: 4009) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 58.70.10.119 at 2009-07-20 18:17:14) [GET]
+Rendering portal/index
+Completed in 13680ms (View: 9322, DB: 4357) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 174.129.175.212 at 2009-07-20 18:17:18) [GET]
+Rendering portal/index
+Completed in 13047ms (View: 9210, DB: 3736) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 66.249.68.103 at 2009-07-20 18:17:28) [GET]
+Rendering portal/index
+Completed in 13722ms (View: 8701, DB: 4818) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 157.82.60.173 at 2009-07-20 18:17:31) [GET]
+Rendering portal/index
+Completed in 14251ms (View: 8959, DB: 3983) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing GroupsController#new (for 114.48.197.115 at 2009-07-20 18:18:21) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 418ms (View: 417, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing GroupsController#new (for 114.48.197.115 at 2009-07-20 18:18:37) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing GroupsController#new (for 114.48.197.115 at 2009-07-20 18:18:37) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing GroupsController#create (for 114.48.197.115 at 2009-07-20 18:18:37) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "group"=>{"name"=>"D"}}
+Redirected to http://geogeo.yuiseki.net/groups/4
+Completed in 1363ms (DB: 132) | 302 Found [http://geogeo.yuiseki.net/groups]
+
+
+Processing ApplicationController#index (for 67.207.201.134 at 2009-07-20 18:18:38) [GET]
+
+ActionController::RoutingError (No route matches "/%20" with {:method=>:get}):
+  passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+  passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/404.html (404 Not Found)
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:18:39) [GET]
+  Parameters: {"id"=>"4"}
+Rendering template within layouts/groups
+Rendering groups/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/4]
+
+
+Processing GroupsController#create (for 114.48.197.115 at 2009-07-20 18:18:41) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "group"=>{"name"=>"E"}}
+Redirected to http://geogeo.yuiseki.net/groups/5
+Completed in 192ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:18:41) [GET]
+  Parameters: {"id"=>"5"}
+Rendering template within layouts/groups
+Rendering groups/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/5]
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:18:44) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 7ms (View: 6, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#new (for 114.48.197.115 at 2009-07-20 18:18:49) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing GroupsController#create (for 114.48.197.115 at 2009-07-20 18:18:56) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "group"=>{"name"=>"Hacker's Cafe"}}
+Redirected to http://geogeo.yuiseki.net/groups/6
+Completed in 119ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:18:56) [GET]
+  Parameters: {"id"=>"6"}
+Rendering template within layouts/groups
+Rendering groups/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/6]
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:18:58) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 8ms (View: 6, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#edit (for 114.48.197.115 at 2009-07-20 18:19:15) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/groups
+Rendering groups/edit
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/1/edit]
+
+
+Processing GroupsController#update (for 114.48.197.115 at 2009-07-20 18:19:20) [PUT]
+  Parameters: {"commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"1", "group"=>{"name"=>"A"}}
+Redirected to http://geogeo.yuiseki.net/groups/1
+Completed in 342ms (DB: 59) | 302 Found [http://geogeo.yuiseki.net/groups/1]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:19:20) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/groups
+Rendering groups/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/1]
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:19:24) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 9ms (View: 6, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:19:50) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 60ms (View: 50, DB: 5) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing PortalController#index (for 61.245.53.135 at 2009-07-20 18:19:49) [GET]
+Rendering portal/index
+Completed in 24363ms (View: 17293, DB: 6981) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:19:49) [GET]
+Rendering portal/index
+Completed in 24163ms (View: 18800, DB: 5359) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 58.1.137.235 at 2009-07-20 18:19:49) [GET]
+Rendering portal/index
+Completed in 25034ms (View: 18271, DB: 6759) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 126.251.19.51 at 2009-07-20 18:19:56) [GET]
+Rendering portal/index
+Completed in 26063ms (View: 16330, DB: 9729) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 122.16.238.203 at 2009-07-20 18:19:58) [GET]
+Rendering portal/index
+Completed in 28421ms (View: 20428, DB: 7988) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:20:27) [GET]
+  Parameters: {"id"=>"5"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 9ms (View: 7, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/5/edit]
+
+
+Processing PortalController#index (for 118.20.12.111 at 2009-07-20 18:20:00) [GET]
+Rendering portal/index
+Completed in 29448ms (View: 20665, DB: 8779) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 211.10.120.199 at 2009-07-20 18:20:14) [GET]
+Rendering portal/index
+Completed in 25041ms (View: 16095, DB: 8945) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 218.128.150.59 at 2009-07-20 18:20:14) [GET]
+Rendering portal/index
+Completed in 28084ms (View: 15327, DB: 12755) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:20:42) [PUT]
+  Parameters: {"user"=>{"name"=>"natsumarron", "flickr_id"=>"", "group_id"=>"3", "twitter_id"=>"natsumarron", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"5"}
+Redirected to http://geogeo.yuiseki.net/users/5
+Completed in 137ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/5]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:20:43) [GET]
+  Parameters: {"id"=>"5"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/5]
+
+
+Processing PortalController#index (for 124.211.10.178 at 2009-07-20 18:20:20) [GET]
+Rendering portal/index
+Completed in 24983ms (View: 16895, DB: 8086) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 219.53.29.70 at 2009-07-20 18:20:29) [GET]
+Rendering portal/index
+Completed in 19341ms (View: 14761, DB: 4579) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 150.93.193.10 at 2009-07-20 18:20:30) [GET]
+Rendering portal/index
+Completed in 19022ms (View: 13052, DB: 5969) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing ApplicationController#index (for 67.207.201.140 at 2009-07-20 18:20:58) [GET]
+
+ActionController::RoutingError (No route matches "/%20" with {:method=>:get}):
+  passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+  passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/404.html (404 Not Found)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:21:06) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 188ms (View: 179, DB: 4) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing ApplicationController#index (for 67.207.201.151 at 2009-07-20 18:21:12) [GET]
+
+ActionController::RoutingError (No route matches "/%20" with {:method=>:get}):
+  passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+  passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/404.html (404 Not Found)
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:21:19) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 14ms (View: 10, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#edit (for 114.48.197.115 at 2009-07-20 18:21:21) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/groups
+Rendering groups/edit
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/1/edit]
+
+
+Processing GroupsController#update (for 114.48.197.115 at 2009-07-20 18:21:27) [PUT]
+  Parameters: {"commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"1", "group"=>{"name"=>"Default"}}
+Redirected to http://geogeo.yuiseki.net/groups/1
+Completed in 208ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/groups/1]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:21:29) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/groups
+Rendering groups/show
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/1]
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:21:31) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 9ms (View: 7, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:21:36) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 9ms (View: 7, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/1/edit]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:21:37) [GET]
+  Parameters: {"id"=>"2"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/2/edit]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:21:38) [GET]
+  Parameters: {"id"=>"3"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/3/edit]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:21:49) [GET]
+  Parameters: {"id"=>"22"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/22/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:21:56) [PUT]
+  Parameters: {"user"=>{"name"=>"yuiseki", "flickr_id"=>"yuiseki", "group_id"=>"6", "twitter_id"=>"yuiseki", "flickr_feed_url"=>"http://api.flickr.com/services/feeds/photos_public.gne?id=90041784@N00&lang=en-us&format=rss_200"}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"1"}
+Redirected to http://geogeo.yuiseki.net/users/1
+Completed in 227ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/1]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:21:58) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 6ms (View: 4, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/1]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:22:00) [PUT]
+  Parameters: {"user"=>{"name"=>"akio0911", "flickr_id"=>"akio0911", "group_id"=>"6", "twitter_id"=>"akio0911", "flickr_feed_url"=>"http://api.flickr.com/services/feeds/photos_public.gne?id=17653213@N05&lang=en-us&format=rss_200"}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"2"}
+Redirected to http://geogeo.yuiseki.net/users/2
+Completed in 157ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/2]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:22:00) [GET]
+  Parameters: {"id"=>"2"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/2]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:22:05) [PUT]
+  Parameters: {"user"=>{"name"=>"takano32", "flickr_id"=>"takano32", "group_id"=>"6", "twitter_id"=>"takano32", "flickr_feed_url"=>"http://api.flickr.com/services/feeds/photos_public.gne?id=34009584@N04&lang=en-us&format=rss_200"}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"3"}
+Redirected to http://geogeo.yuiseki.net/users/3
+Completed in 135ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/3]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:22:06) [GET]
+  Parameters: {"id"=>"3"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/3]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:22:09) [PUT]
+  Parameters: {"user"=>{"name"=>"tks", "flickr_id"=>"77492326@N00", "group_id"=>"6", "twitter_id"=>"tks", "flickr_feed_url"=>"http://api.flickr.com/services/feeds/photos_public.gne?id=77492326@N00&lang=en-us&format=rss_200"}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"22"}
+Redirected to http://geogeo.yuiseki.net/users/22
+Completed in 273ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/22]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:22:10) [GET]
+  Parameters: {"id"=>"22"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/22]
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:22:21) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 37ms (View: 31, DB: 4) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing PhotosController#show (for 150.93.193.10 at 2009-07-20 18:25:51) [GET]
+  Parameters: {"id"=>"215"}
+Rendering template within layouts/photos
+Rendering photos/show
+Completed in 9ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/photos/215]
+
+
+Processing PhotosController#show (for 150.93.193.10 at 2009-07-20 18:26:22) [GET]
+  Parameters: {"id"=>"316"}
+Rendering template within layouts/photos
+Rendering photos/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/photos/316]
+
+
+Processing PhotosController#edit (for 150.93.193.10 at 2009-07-20 18:27:35) [GET]
+  Parameters: {"id"=>"316"}
+Rendering template within layouts/photos
+Rendering photos/edit
+Completed in 12ms (View: 8, DB: 4) | 200 OK [http://geogeo.yuiseki.net/photos/316/edit]
+
+
+Processing PhotosController#index (for 150.93.193.10 at 2009-07-20 18:27:41) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 254ms (View: 203, DB: 41) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing ApplicationController#index (for 114.48.63.173 at 2009-07-20 18:28:09) [GET]
+
+ActionController::RoutingError (No route matches "/grpups" with {:method=>:get}):
+  passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+  passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/404.html (404 Not Found)
+
+
+Processing GroupsController#index (for 114.48.63.173 at 2009-07-20 18:28:17) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 133ms (View: 10, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#new (for 114.48.197.115 at 2009-07-20 18:31:17) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 13ms (View: 7, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing GroupsController#create (for 114.48.197.115 at 2009-07-20 18:31:21) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "group"=>{"name"=>"G"}}
+Redirected to http://geogeo.yuiseki.net/groups/7
+Completed in 143ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:31:21) [GET]
+  Parameters: {"id"=>"7"}
+Rendering template within layouts/groups
+Rendering groups/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/groups/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @group.name %>
+4: </p>
+5: 
+6: 
+
+    app/views/groups/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:31:33) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 11ms (View: 9, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#new (for 114.48.63.173 at 2009-07-20 18:31:34) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing GroupsController#new (for 114.48.197.115 at 2009-07-20 18:31:36) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing GroupsController#create (for 114.48.197.115 at 2009-07-20 18:31:39) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "group"=>{"name"=>"F"}}
+Redirected to http://geogeo.yuiseki.net/groups/8
+Completed in 132ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:31:40) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/groups
+Rendering groups/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/groups/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @group.name %>
+4: </p>
+5: 
+6: 
+
+    app/views/groups/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:31:43) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups/]
+
+
+Processing GroupsController#edit (for 114.48.197.115 at 2009-07-20 18:31:49) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/groups
+Rendering groups/edit
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/8/edit]
+
+
+Processing GroupsController#update (for 114.48.197.115 at 2009-07-20 18:31:52) [PUT]
+  Parameters: {"commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"8", "group"=>{"name"=>"Hacker's Cafe"}}
+Redirected to http://geogeo.yuiseki.net/groups/8
+Completed in 133ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/groups/8]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:31:52) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/groups
+Rendering groups/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/groups/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @group.name %>
+4: </p>
+5: 
+6: 
+
+    app/views/groups/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing GroupsController#index (for 114.48.63.173 at 2009-07-20 18:31:54) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:31:59) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups/]
+
+
+Processing GroupsController#edit (for 114.48.197.115 at 2009-07-20 18:32:01) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/groups
+Rendering groups/edit
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/8/edit]
+
+
+Processing GroupsController#update (for 114.48.197.115 at 2009-07-20 18:32:09) [PUT]
+  Parameters: {"commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"8", "group"=>{"name"=>"H"}}
+Redirected to http://geogeo.yuiseki.net/groups/8
+Completed in 157ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/groups/8]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:32:10) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/groups
+Rendering groups/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/groups/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @group.name %>
+4: </p>
+5: 
+6: 
+
+    app/views/groups/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:32:14) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups/]
+
+
+Processing GroupsController#index (for 114.48.63.173 at 2009-07-20 18:32:32) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#edit (for 114.48.197.115 at 2009-07-20 18:32:32) [GET]
+  Parameters: {"id"=>"4"}
+Rendering template within layouts/groups
+Rendering groups/edit
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/4/edit]
+
+
+Processing GroupsController#update (for 114.48.197.115 at 2009-07-20 18:32:40) [PUT]
+  Parameters: {"commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"4", "group"=>{"name"=>"Jichael"}}
+Redirected to http://geogeo.yuiseki.net/groups/4
+Completed in 167ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/groups/4]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:32:40) [GET]
+  Parameters: {"id"=>"4"}
+Rendering template within layouts/groups
+Rendering groups/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/groups/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @group.name %>
+4: </p>
+5: 
+6: 
+
+    app/views/groups/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:32:51) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 50ms (View: 40, DB: 4) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing PhotosController#index (for 114.48.63.173 at 2009-07-20 18:32:56) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 243ms (View: 207, DB: 24) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:32:57) [GET]
+  Parameters: {"id"=>"4"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 22ms (View: 14, DB: 2) | 200 OK [http://geogeo.yuiseki.net/users/4/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:33:02) [PUT]
+  Parameters: {"user"=>{"name"=>"RailwaysGSM", "flickr_id"=>"", "group_id"=>"4", "twitter_id"=>"RailwaysGSM", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"4"}
+Redirected to http://geogeo.yuiseki.net/users/4
+Completed in 135ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/4]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:33:03) [GET]
+  Parameters: {"id"=>"4"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:33:06) [GET]
+  Parameters: {"id"=>"4"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:33:08) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 37ms (View: 30, DB: 5) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:33:21) [GET]
+  Parameters: {"id"=>"15"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 9ms (View: 7, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/15/edit]
+
+
+Processing StatusesController#index (for 114.48.63.173 at 2009-07-20 18:33:34) [GET]
+Rendering template within layouts/statuses
+Rendering statuses/index
+Completed in 962ms (View: 720, DB: 202) | 200 OK [http://geogeo.yuiseki.net/statuses]
+
+
+Processing UsersController#new (for 114.48.197.115 at 2009-07-20 18:33:43) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 7ms (View: 6, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#create (for 114.48.197.115 at 2009-07-20 18:33:54) [POST]
+  Parameters: {"user"=>{"name"=>"terubouzu", "flickr_id"=>"", "group_id"=>"4", "twitter_id"=>"terubouzu", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/23
+Completed in 127ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:33:54) [GET]
+  Parameters: {"id"=>"23"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:33:59) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 39ms (View: 32, DB: 5) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:34:16) [GET]
+  Parameters: {"id"=>"9"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/9/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:34:20) [PUT]
+  Parameters: {"user"=>{"name"=>"wats", "flickr_id"=>"", "group_id"=>"4", "twitter_id"=>"wats", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"9"}
+Redirected to http://geogeo.yuiseki.net/users/9
+Completed in 143ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/9]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:34:22) [GET]
+  Parameters: {"id"=>"9"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:34:31) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 16ms (View: 11, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups/]
+
+
+Processing GroupsController#edit (for 114.48.197.115 at 2009-07-20 18:34:34) [GET]
+  Parameters: {"id"=>"2"}
+Rendering template within layouts/groups
+Rendering groups/edit
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/2/edit]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:34:28) [GET]
+Rendering portal/index
+Completed in 5295ms (View: 3840, DB: 1451) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing GroupsController#update (for 114.48.197.115 at 2009-07-20 18:34:40) [PUT]
+  Parameters: {"commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"2", "group"=>{"name"=>"ハムサイクサ"}}
+Redirected to http://geogeo.yuiseki.net/groups/2
+Completed in 125ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/groups/2]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:34:41) [GET]
+  Parameters: {"id"=>"2"}
+Rendering template within layouts/groups
+Rendering groups/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/groups/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @group.name %>
+4: </p>
+5: 
+6: 
+
+    app/views/groups/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:34:46) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 39ms (View: 32, DB: 5) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:34:51) [PUT]
+  Parameters: {"user"=>{"name"=>"tkono1", "flickr_id"=>"", "group_id"=>"4", "twitter_id"=>"tkono1", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"15"}
+Redirected to http://geogeo.yuiseki.net/users/15
+Completed in 199ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/15]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:34:52) [GET]
+  Parameters: {"id"=>"15"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#new (for 114.48.197.115 at 2009-07-20 18:35:06) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 6ms (View: 4, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing PhotosController#index (for 114.48.223.206 at 2009-07-20 18:35:55) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 404ms (View: 371, DB: 23) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:36:37) [GET]
+  Parameters: {"id"=>"13"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 22ms (View: 14, DB: 2) | 200 OK [http://geogeo.yuiseki.net/users/13/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:36:43) [PUT]
+  Parameters: {"user"=>{"name"=>"sanemat", "flickr_id"=>"", "group_id"=>"2", "twitter_id"=>"sanemat", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"13"}
+Redirected to http://geogeo.yuiseki.net/users/13
+Completed in 255ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/13]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:36:43) [GET]
+  Parameters: {"id"=>"13"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:36:42) [GET]
+Rendering portal/index
+Completed in 5430ms (View: 3731, DB: 1694) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:36:47) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 47ms (View: 39, DB: 5) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:36:58) [GET]
+  Parameters: {"id"=>"18"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/18/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:37:04) [PUT]
+  Parameters: {"user"=>{"name"=>"shinagaki", "flickr_id"=>"", "group_id"=>"2", "twitter_id"=>"shinagaki", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"18"}
+Redirected to http://geogeo.yuiseki.net/users/18
+Completed in 184ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/18]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:37:05) [GET]
+  Parameters: {"id"=>"18"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:37:08) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 42ms (View: 35, DB: 5) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing PhotosController#index (for 150.70.84.24 at 2009-07-20 18:37:54) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 400ms (View: 220, DB: 167) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing UsersController#new (for 114.48.197.115 at 2009-07-20 18:38:15) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 8ms (View: 6, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#create (for 114.48.197.115 at 2009-07-20 18:38:52) [POST]
+  Parameters: {"user"=>{"name"=>"tosygeocaching", "flickr_id"=>"", "group_id"=>"2", "twitter_id"=>"tosygeocaching", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/24
+Completed in 160ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:38:52) [GET]
+  Parameters: {"id"=>"24"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:38:56) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 41ms (View: 33, DB: 5) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:39:34) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 57ms (View: 10, DB: 43) | 200 OK [http://geogeo.yuiseki.net/groups]
+
+
+Processing GroupsController#edit (for 114.48.197.115 at 2009-07-20 18:39:36) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/groups
+Rendering groups/edit
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/8/edit]
+
+
+Processing GroupsController#update (for 114.48.197.115 at 2009-07-20 18:39:41) [PUT]
+  Parameters: {"commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"8", "group"=>{"name"=>"コクの時間"}}
+Redirected to http://geogeo.yuiseki.net/groups/8
+Completed in 120ms (DB: 14) | 302 Found [http://geogeo.yuiseki.net/groups/8]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:39:41) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/groups
+Rendering groups/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/groups/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @group.name %>
+4: </p>
+5: 
+6: 
+
+    app/views/groups/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:39:45) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups/]
+
+
+Processing GroupsController#edit (for 114.48.197.115 at 2009-07-20 18:39:50) [GET]
+  Parameters: {"id"=>"7"}
+Rendering template within layouts/groups
+Rendering groups/edit
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/7/edit]
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:40:04) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 165ms (View: 158, DB: 5) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:40:15) [GET]
+  Parameters: {"id"=>"10"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 8ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/10/edit]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:40:26) [GET]
+Rendering portal/index
+Completed in 5367ms (View: 3845, DB: 1520) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:40:50) [PUT]
+  Parameters: {"user"=>{"name"=>"cm3", "flickr_id"=>"", "group_id"=>"7", "twitter_id"=>"cm3", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"10"}
+Redirected to http://geogeo.yuiseki.net/users/10
+Completed in 153ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/10]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:40:50) [GET]
+  Parameters: {"id"=>"10"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing PhotosController#index (for 114.48.63.173 at 2009-07-20 18:41:33) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 382ms (View: 349, DB: 23) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing UsersController#new (for 114.48.197.115 at 2009-07-20 18:41:40) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 6ms (View: 4, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#create (for 114.48.197.115 at 2009-07-20 18:41:50) [POST]
+  Parameters: {"user"=>{"name"=>"kurousai", "flickr_id"=>"", "group_id"=>"7", "twitter_id"=>"kurousai", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/25
+Completed in 148ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:41:51) [GET]
+  Parameters: {"id"=>"25"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:41:53) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 44ms (View: 36, DB: 6) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:42:01) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/8/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:42:10) [PUT]
+  Parameters: {"user"=>{"name"=>"kotamz", "flickr_id"=>"", "group_id"=>"7", "twitter_id"=>"kotamz", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"8"}
+Redirected to http://geogeo.yuiseki.net/users/8
+Completed in 144ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/8]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:42:11) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:42:27) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups/]
+
+
+Processing GroupsController#edit (for 114.48.197.115 at 2009-07-20 18:42:34) [GET]
+  Parameters: {"id"=>"5"}
+Rendering template within layouts/groups
+Rendering groups/edit
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/5/edit]
+
+
+Processing GroupsController#update (for 114.48.197.115 at 2009-07-20 18:42:43) [PUT]
+  Parameters: {"commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"5", "group"=>{"name"=>"ピーちゃん"}}
+Redirected to http://geogeo.yuiseki.net/groups/5
+Completed in 143ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/groups/5]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:42:44) [GET]
+  Parameters: {"id"=>"5"}
+Rendering template within layouts/groups
+Rendering groups/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/groups/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @group.name %>
+4: </p>
+5: 
+6: 
+
+    app/views/groups/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:42:51) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 44ms (View: 36, DB: 6) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:43:00) [GET]
+  Parameters: {"id"=>"20"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/20/edit]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:43:06) [GET]
+  Parameters: {"id"=>"16"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/16/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:43:14) [PUT]
+  Parameters: {"user"=>{"name"=>"nakazato", "flickr_id"=>"", "group_id"=>"5", "twitter_id"=>"nakazato", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"16"}
+Redirected to http://geogeo.yuiseki.net/users/16
+Completed in 175ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/16]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:43:15) [GET]
+  Parameters: {"id"=>"16"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:43:19) [PUT]
+  Parameters: {"user"=>{"name"=>"swimwims", "flickr_id"=>"swimwims", "group_id"=>"5", "twitter_id"=>"swimwims", "flickr_feed_url"=>"http://api.flickr.com/services/feeds/photos_public.gne?id=28731328@N07&lang=en-us&format=rss_200"}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"20"}
+Redirected to http://geogeo.yuiseki.net/users/20
+Completed in 166ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/20]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:43:20) [GET]
+  Parameters: {"id"=>"20"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing ApplicationController#index (for 114.48.197.115 at 2009-07-20 18:43:36) [GET]
+
+ActionController::RoutingError (No route matches "/grouops" with {:method=>:get}):
+  passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+  passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/404.html (404 Not Found)
+
+
+Processing GroupsController#index (for 114.48.197.115 at 2009-07-20 18:43:44) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 11ms (View: 9, DB: 1) | 200 OK [http://geogeo.yuiseki.net/groups/]
+
+
+Processing GroupsController#edit (for 114.48.197.115 at 2009-07-20 18:43:48) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/groups
+Rendering groups/edit
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/1/edit]
+
+
+Processing GroupsController#update (for 114.48.197.115 at 2009-07-20 18:43:55) [PUT]
+  Parameters: {"commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"1", "group"=>{"name"=>"実は双子チーム"}}
+Redirected to http://geogeo.yuiseki.net/groups/1
+Completed in 191ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/groups/1]
+
+
+Processing GroupsController#show (for 114.48.197.115 at 2009-07-20 18:43:56) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/groups
+Rendering groups/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/groups/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @group.name %>
+4: </p>
+5: 
+6: 
+
+    app/views/groups/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:44:01) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 44ms (View: 35, DB: 6) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing PhotosController#index (for 150.93.193.10 at 2009-07-20 18:46:03) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 270ms (View: 232, DB: 25) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:46:04) [GET]
+Rendering portal/index
+Completed in 5619ms (View: 3922, DB: 1692) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#new (for 114.48.197.115 at 2009-07-20 18:46:39) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 11ms (View: 7, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#create (for 114.48.197.115 at 2009-07-20 18:46:49) [POST]
+  Parameters: {"user"=>{"name"=>"kokogiko", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"kokogiko", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/26
+Completed in 152ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:46:50) [GET]
+  Parameters: {"id"=>"26"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#new (for 114.48.197.115 at 2009-07-20 18:47:47) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 21ms (View: 13, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:47:44) [GET]
+Rendering portal/index
+Completed in 6123ms (View: 4369, DB: 1749) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:47:50) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 59ms (View: 50, DB: 7) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:48:03) [GET]
+  Parameters: {"id"=>"6"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 14ms (View: 9, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/6/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:48:13) [PUT]
+  Parameters: {"user"=>{"name"=>"平川", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"y_ki", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"6"}
+Redirected to http://geogeo.yuiseki.net/users/6
+Completed in 174ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/6]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:48:15) [GET]
+  Parameters: {"id"=>"6"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:48:28) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 49ms (View: 40, DB: 6) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:48:48) [GET]
+  Parameters: {"id"=>"10"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 8ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/10/edit]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:49:02) [GET]
+  Parameters: {"id"=>"25"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 2) | 200 OK [http://geogeo.yuiseki.net/users/25/edit]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:49:09) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/8/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:49:20) [PUT]
+  Parameters: {"user"=>{"name"=>"水口", "flickr_id"=>"", "group_id"=>"7", "twitter_id"=>"kotamz", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"8"}
+Redirected to http://geogeo.yuiseki.net/users/8
+Completed in 128ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/8]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:49:21) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:49:29) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 46ms (View: 37, DB: 6) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:49:38) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/8/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:49:48) [PUT]
+  Parameters: {"user"=>{"name"=>"水口さん", "flickr_id"=>"", "group_id"=>"7", "twitter_id"=>"kotamz", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"8"}
+Redirected to http://geogeo.yuiseki.net/users/8
+Completed in 1205ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/8]
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:49:50) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 49ms (View: 40, DB: 6) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:50:01) [GET]
+  Parameters: {"id"=>"6"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 9ms (View: 7, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/6/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:50:07) [PUT]
+  Parameters: {"user"=>{"name"=>"平川さん", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"y_ki", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"6"}
+Redirected to http://geogeo.yuiseki.net/users/6
+Completed in 246ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/6]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:50:08) [GET]
+  Parameters: {"id"=>"6"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#index (for 114.48.197.115 at 2009-07-20 18:50:12) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 171ms (View: 158, DB: 8) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:50:08) [GET]
+Rendering portal/index
+Completed in 6167ms (View: 4377, DB: 1786) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:50:32) [GET]
+  Parameters: {"id"=>"25"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/25/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:50:48) [PUT]
+  Parameters: {"user"=>{"name"=>"森嶋さん", "flickr_id"=>"", "group_id"=>"7", "twitter_id"=>"kurousai", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"25"}
+Redirected to http://geogeo.yuiseki.net/users/25
+Completed in 449ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/25]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:50:49) [GET]
+  Parameters: {"id"=>"25"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:50:48) [GET]
+Rendering portal/index
+Completed in 6029ms (View: 4297, DB: 1726) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:50:59) [GET]
+  Parameters: {"id"=>"10"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 13ms (View: 8, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/10/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:51:04) [PUT]
+  Parameters: {"user"=>{"name"=>"亀田さん", "flickr_id"=>"", "group_id"=>"7", "twitter_id"=>"cm3", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"10"}
+Redirected to http://geogeo.yuiseki.net/users/10
+Completed in 133ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/10]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:51:04) [GET]
+  Parameters: {"id"=>"10"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:51:33) [GET]
+  Parameters: {"id"=>"4"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/4/edit]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:51:46) [GET]
+  Parameters: {"id"=>"15"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 22ms (View: 14, DB: 2) | 200 OK [http://geogeo.yuiseki.net/users/15/edit]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:51:46) [GET]
+  Parameters: {"id"=>"23"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 2) | 200 OK [http://geogeo.yuiseki.net/users/23/edit]
+
+
+Processing UsersController#edit (for 114.48.197.115 at 2009-07-20 18:51:56) [GET]
+  Parameters: {"id"=>"9"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 23ms (View: 14, DB: 2) | 200 OK [http://geogeo.yuiseki.net/users/9/edit]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:52:04) [PUT]
+  Parameters: {"user"=>{"name"=>"小坂さん", "flickr_id"=>"", "group_id"=>"4", "twitter_id"=>"RailwaysGSM", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"4"}
+Redirected to http://geogeo.yuiseki.net/users/4
+Completed in 628ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/4]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:52:06) [GET]
+  Parameters: {"id"=>"4"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing PortalController#index (for 59.158.19.74 at 2009-07-20 18:51:46) [GET]
+Rendering portal/index
+Completed in 22314ms (View: 14193, DB: 8116) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:51:46) [GET]
+Rendering portal/index
+Completed in 23171ms (View: 14861, DB: 8305) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 61.195.171.91 at 2009-07-20 18:51:51) [GET]
+Rendering portal/index
+Completed in 19608ms (View: 12958, DB: 6646) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 59.166.81.228 at 2009-07-20 18:51:56) [GET]
+Rendering portal/index
+Completed in 16168ms (View: 10635, DB: 5528) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:52:16) [PUT]
+  Parameters: {"user"=>{"name"=>"河野さん", "flickr_id"=>"", "group_id"=>"4", "twitter_id"=>"tkono1", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"15"}
+Redirected to http://geogeo.yuiseki.net/users/15
+Completed in 186ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/15]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:52:17) [GET]
+  Parameters: {"id"=>"15"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:52:26) [PUT]
+  Parameters: {"user"=>{"name"=>"照山さん", "flickr_id"=>"", "group_id"=>"4", "twitter_id"=>"terubouzu", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"23"}
+Redirected to http://geogeo.yuiseki.net/users/23
+Completed in 146ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/23]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:52:27) [GET]
+  Parameters: {"id"=>"23"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing UsersController#update (for 114.48.197.115 at 2009-07-20 18:52:35) [PUT]
+  Parameters: {"user"=>{"name"=>"和田さん", "flickr_id"=>"", "group_id"=>"4", "twitter_id"=>"wats", "flickr_feed_url"=>""}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"9"}
+Redirected to http://geogeo.yuiseki.net/users/9
+Completed in 176ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/9]
+
+
+Processing UsersController#show (for 114.48.197.115 at 2009-07-20 18:52:36) [GET]
+  Parameters: {"id"=>"9"}
+Rendering template within layouts/users
+Rendering users/show
+
+ActionView::TemplateError (undefined method `name' for nil:NilClass) on line #3 of app/views/users/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @user.name %>
+4: </p>
+5: <p>
+6:   <b>TwitterID:</b>
+
+    app/views/users/show.html.erb:3
+    passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+    passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+    passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+    passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/500.html (500 Internal Server Error)
+
+
+Processing PortalController#index (for 91.121.89.155 at 2009-07-20 18:52:52) [GET]
+Rendering portal/index
+Completed in 33388ms (View: 25498, DB: 7885) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 209.20.82.39 at 2009-07-20 18:52:51) [GET]
+Rendering portal/index
+Completed in 33835ms (View: 23293, DB: 10537) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.48.197.115 at 2009-07-20 18:52:52) [GET]
+Rendering portal/index
+Completed in 33664ms (View: 22920, DB: 10521) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 220.150.33.114 at 2009-07-20 18:52:52) [GET]
+Rendering portal/index
+Completed in 33955ms (View: 25349, DB: 8530) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:52:52) [GET]
+Rendering portal/index
+Completed in 35059ms (View: 25364, DB: 9690) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 219.94.129.43 at 2009-07-20 18:52:58) [GET]
+Rendering portal/index
+Completed in 36767ms (View: 23705, DB: 13057) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 124.98.124.76 at 2009-07-20 18:53:28) [GET]
+Rendering portal/index
+Completed in 29163ms (View: 22563, DB: 6598) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 157.82.60.173 at 2009-07-20 18:53:25) [GET]
+Rendering portal/index
+Completed in 32578ms (View: 22035, DB: 10541) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 61.45.36.62 at 2009-07-20 18:53:25) [GET]
+Rendering portal/index
+Completed in 32656ms (View: 24807, DB: 7847) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 220.109.219.244 at 2009-07-20 18:53:26) [GET]
+Rendering portal/index
+Completed in 31873ms (View: 19193, DB: 12678) | 200 OK [http://geogeo.yuiseki.net/]

@@ -12,7 +12,13 @@
 	<th>時間帯</th>
 	<% @groups.each do |group| %>
 	<% group.users.each do |user| %>
-	<th><%=h group.name %><br/><%=h user.name %></th>
+  <th>
+    <%=h group.name %>
+    <br/>
+    <%= image_tag "http://usericons.relucks.org/twitter/#{h(user.name.downcase)}" %>
+    <br/>
+    <%=h user.name %>
+  </th>
 	<% end %>
 	<% end %>
       </tr>
