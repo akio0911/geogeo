@@ -4,6 +4,25 @@
   </head>
   <body>
     <h1>ジオジオスタンプラリー</h1>
+
+    <table border="1">
+      <tr>
+	<th>時間帯</th>
+	<% @groups.each do |group| %>
+	<% group.users.each do |user| %>
+	<th><%=h group.name %><br/><%=h user.name %></th>
+	<% end %>
+	<% end %>
+      </tr>
+      <% 13.upto(19) do |i| %>
+      <% 0.upto(5) do |j| %>
+      <tr>
+	<td><%=h "#{i}:#{j}0-#{i}:#{j}9" %></td>
+      </tr>
+      <% end %>
+      <% end %>
+    </table>
+
     <% @groups.each do |group| %>
     <h2><%=h group.name %></h2>
     <% group.users.each do |user| %>
