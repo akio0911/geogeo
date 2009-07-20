@@ -11,7 +11,7 @@
 
     <h3>写真</h2>
     <% user.photos.each do |photo| %>
-    <%= image_tag(photo.url, :size => '100x100') %>
+    <%= link_to(image_tag(photo.url_thumbnail, :size => '100x100'), photo.url) %>
     <% end %>
 
     <h3>つぶやき</h2>
