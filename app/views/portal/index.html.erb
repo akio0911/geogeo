@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>ジオジオスタンプラリー</title>
+  </head>
+  <body>
+    <h1>ジオジオスタンプラリー</h1>
+    <% @groups.each do |group| %>
+    <h2><%=h group.name %></h2>
+    <% group.users.each do |user| %>
+    <h3><%=h user.name %></h3>
+    <% end %>
+    <% end %>
+  </body>
+</html>
