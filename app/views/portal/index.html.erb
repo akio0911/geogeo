@@ -30,7 +30,7 @@
 
     <h3>写真</h2>
     <% user.photos.each do |photo| %>
-    <%= link_to(image_tag(photo.url_thumbnail, :size => '100x100'), photo.url) %>
+    <%= link_to(image_tag(photo.url_thumbnail, :size => '100x100'), photo.url, {:class => 'highslide', :onclick => 'return hs.expand(this)'}) %>
     <% end %>
 
     <h3>つぶやき</h2>
@@ -41,4 +41,13 @@
     <% end %>
     <% end %>
   </body>
+
+<!-- Highside JS -->
+<script type="text/javascript" src="/javascripts/highslide/highslide.js"></script>
+<link rel="stylesheet" type="text/css" href="/javascripts/highslide/highslide.css" />
+<script type="text/javascript">
+	hs.graphicsDir = '/javascripts/highslide/graphics/';
+	hs.wrapperClassName = 'wide-border';
+</script>
 </html>
+
