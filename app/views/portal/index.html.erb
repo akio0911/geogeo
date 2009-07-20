@@ -30,7 +30,9 @@
 	  <% statuses.each do |status| %>
 	  <%=h status.status_text %><br/>
 	  <% end %>
-
+    <%#= now_time %>
+    <%#= end_time %>
+    <%#= Photo.find(:first).taken_at %>
 	  <% photos = Photo.find(:all, :conditions => ["taken_at between ? and ? and user_id = ?", now_time + 9.hour, end_time + 9.hour, user.id]) %>
 	  <% photos.each do |photo| %>
 	  <%= link_to(image_tag(photo.url_thumbnail, :size => '100x100'), photo.url, {:class => 'highslide', :onclick => 'return hs.expand(this)'}) %>
