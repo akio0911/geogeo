@@ -1,4 +1,5 @@
 class PortalController < ApplicationController
+  caches_page :index
   def index
 #     @groups = Group.find(:all, :order => "start")
 #     respond_to do |format| 
