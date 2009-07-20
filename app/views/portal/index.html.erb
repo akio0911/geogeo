@@ -7,7 +7,18 @@
     <% @groups.each do |group| %>
     <h2><%=h group.name %></h2>
     <% group.users.each do |user| %>
-    <h3><%=h user.name %></h3>
+    <h2><%=h user.name %></h3>
+
+    <h3>写真</h2>
+    <% user.photos.each do |photo| %>
+    <%= image_tag(photo.url, :size => '100x100') %>
+    <% end %>
+
+    <h3>つぶやき</h2>
+    <% user.statuses.each do |status| %>
+    <%= link_to(status.status_text, status.url) %>
+    <% end %>
+
     <% end %>
     <% end %>
   </body>
