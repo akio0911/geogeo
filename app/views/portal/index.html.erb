@@ -23,7 +23,10 @@
 	<% @groups.each do |group| %>
 	<% group.users.each do |user| %>
 	<td>
-	  <% statuses = Status.find(:all, :conditions => ["status_created_at between ? and ? and user_id = ?", now_time, end_time, user.id]) %>
+    <% statuses = Status.find(:all,
+                              :conditions => ["status_created_at between ? and ? and user_id = ?", now_time, end_time, user.id],
+                              :order => "status_created_at DESC"
+    ) %>
 	  <% statuses.each do |status| %>
 	  <%=h status.status_text %><br/>
 	  <% end %>

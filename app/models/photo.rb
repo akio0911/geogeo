@@ -6,6 +6,7 @@ class Photo < ActiveRecord::Base
 
   def self.import_flickr
     User.find(:all).each do |u|
+      unless u.flickr_feed_url.empty?
       xml = open(u.flickr_feed_url).read
       doc = REXML::Document.new xml
       doc.elements.each('/rss') do |rss|
@@ -24,6 +25,7 @@ class Photo < ActiveRecord::Base
             end
           end
         end
+      end
       end
     end
   end
