@@ -2,7 +2,7 @@ class PhotosController < ApplicationController
   # GET /photos
   # GET /photos.xml
   def index
-    @photos = Photo.all
+    @photos = Photo.find(:all, :order => "taken_at DESC")
 
     respond_to do |format|
       format.html # index.html.erb

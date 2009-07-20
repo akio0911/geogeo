@@ -1060,3 +1060,63 @@ Completed in 154ms (View: 144, DB: 5) | 200 OK [http://geogeo.yuiseki.net/users]
 Processing PortalController#index (for 114.48.63.173 at 2009-07-20 18:03:51) [GET]
 Rendering portal/index
 Completed in 5450ms (View: 3863, DB: 1583) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#index (for 118.12.4.203 at 2009-07-20 18:06:12) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 62ms (View: 51, DB: 5) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing PhotosController#index (for 114.48.63.173 at 2009-07-20 18:06:12) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 261ms (View: 224, DB: 24) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing PhotosController#index (for 150.93.193.10 at 2009-07-20 18:06:27) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 363ms (View: 331, DB: 22) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing PhotosController#index (for 114.48.63.173 at 2009-07-20 18:07:09) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 261ms (View: 223, DB: 24) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing GroupsController#index (for 150.93.193.10 at 2009-07-20 18:07:30) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/]
+
+
+Processing GroupsController#new (for 150.93.193.10 at 2009-07-20 18:07:45) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing PhotosController#index (for 114.48.63.173 at 2009-07-20 18:08:01) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 260ms (View: 221, DB: 26) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing GroupsController#new (for 150.93.193.10 at 2009-07-20 18:08:26) [GET]
+Rendering template within layouts/groups
+Rendering groups/new
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://geogeo.yuiseki.net/groups/new]
+
+
+Processing PhotosController#index (for 150.93.193.10 at 2009-07-20 18:08:27) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 357ms (View: 323, DB: 23) | 200 OK [http://geogeo.yuiseki.net/photos]
+
+
+Processing PhotosController#index (for 114.162.212.17 at 2009-07-20 18:08:28) [GET]
+Rendering template within layouts/photos
+Rendering photos/index
+Completed in 250ms (View: 215, DB: 24) | 200 OK [http://geogeo.yuiseki.net/photos]
