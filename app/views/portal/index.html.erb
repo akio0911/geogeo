@@ -27,6 +27,12 @@
 	  <% statuses.each do |status| %>
 	  <%=h status.status_text %><br/>
 	  <% end %>
+
+	  <% photos = Photo.find(:all, :conditions => ["taken_at between ? and ? and user_id = ?", now_time + 9.hour, end_time + 9.hour, user.id]) %>
+	  <% photos.each do |photo| %>
+	  <%= link_to(image_tag(photo.url_thumbnail, :size => '100x100'), photo.url, {:class => 'highslide', :onclick => 'return hs.expand(this)'}) %>
+	  <% end %>
+	  
 	</td>
 	<% end %>
 	<% end %>
@@ -34,24 +40,6 @@
       <% end %>
       <% end %>
     </table>
-
-    <% @groups.each do |group| %>
-    <h2><%=h group.name %></h2>
-    <% group.users.each do |user| %>
-    <h2><%=h user.name %></h3>
-
-    <h3>写真</h2>
-    <% user.photos.each do |photo| %>
-    <%= link_to(image_tag(photo.url_thumbnail, :size => '100x100'), photo.url, {:class => 'highslide', :onclick => 'return hs.expand(this)'}) %>
-    <% end %>
-
-    <h3>つぶやき</h2>
-    <% user.statuses.each do |status| %>
-    <%= link_to(status.status_text, "http://twitter.com/#{user.twitter_id}/status/#{status.status_id}") %>
-    <% end %>
-
-    <% end %>
-    <% end %>
   </body>
 
 <!-- Highside JS -->

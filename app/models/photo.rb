@@ -18,6 +18,9 @@ class Photo < ActiveRecord::Base
             item.elements.each('media:thumbnail') do |media_thumbnail|
               photo.url_thumbnail = media_thumbnail.attributes["url"] 
             end
+            item.elements.each('dc:date.Taken') do |taken|
+              photo.taken_at =  taken.text
+            end
             photo.user_id = u.id
             unless Photo.find(:first, :conditions => ["url = ?", photo.url])
               photo.save
