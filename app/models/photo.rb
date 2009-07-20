@@ -4,6 +4,7 @@ require "rexml/document"
 class Photo < ActiveRecord::Base
   belongs_to :user
 
+#http://api.flickr.com/services/feeds/photos_public.gne?id=17653213@N05&lang=en-us&format=rss_200
   def self.import_flickr
     User.find(:all).each do |u|
       url = u.flickr_feed_url
