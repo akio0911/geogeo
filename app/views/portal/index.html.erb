@@ -16,8 +16,20 @@
       </tr>
       <% 13.upto(19) do |i| %>
       <% 0.upto(5) do |j| %>
+      <% now_time = DateTime.new(2009, 7, 20, i, j*10) %>
+      <% end_time = now_time + 9.minute %>
       <tr>
 	<td><%=h "#{i}:#{j}0-#{i}:#{j}9" %></td>
+	<% @groups.each do |group| %>
+	<% group.users.each do |user| %>
+	<td>
+	  <% statuses = Status.find(:all, :conditions => ["status_created_at between ? and ? and user_id = ?", now_time, end_time, user.id]) %>
+	  <% statuses.each do |status| %>
+	  <%=h status.status_text %><br/>
+	  <% end %>
+	</td>
+	<% end %>
+	<% end %>
       </tr>
       <% end %>
       <% end %>
