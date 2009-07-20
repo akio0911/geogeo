@@ -1,0 +1,812 @@
+
+
+Processing GroupsController#index (for 114.48.7.28 at 2009-07-20 13:47:46) [GET]
+Rendering template within layouts/groups
+Rendering groups/index
+Completed in 259ms (View: 253, DB: 2) | 200 OK [http://geogeo.yuiseki.net/groups/]
+
+
+Processing PortalController#index (for 114.48.75.27 at 2009-07-20 13:59:58) [GET]
+Rendering portal/index
+Completed in 1949ms (View: 1846, DB: 99) | 200 OK [http://geogeo.yuiseki.net/portal]
+
+
+Processing PortalController#index (for 114.48.75.27 at 2009-07-20 14:01:44) [GET]
+Rendering portal/index
+Completed in 279ms (View: 216, DB: 62) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.48.7.28 at 2009-07-20 14:01:57) [GET]
+Rendering portal/index
+Completed in 273ms (View: 211, DB: 61) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 66.249.68.103 at 2009-07-20 14:01:58) [GET]
+Rendering portal/index
+Completed in 418ms (View: 352, DB: 65) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 38.99.68.204 at 2009-07-20 14:01:58) [GET]
+Rendering portal/index
+Completed in 291ms (View: 223, DB: 67) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 75.101.156.169 at 2009-07-20 14:02:02) [GET]
+Rendering portal/index
+Completed in 346ms (View: 282, DB: 63) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 121.108.69.17 at 2009-07-20 14:02:02) [GET]
+Rendering portal/index
+Completed in 418ms (View: 357, DB: 60) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 209.176.111.105 at 2009-07-20 14:02:04) [GET]
+Rendering portal/index
+Completed in 1438ms (View: 1323, DB: 94) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.48.7.28 at 2009-07-20 14:02:08) [GET]
+Rendering portal/index
+Completed in 279ms (View: 216, DB: 62) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 208.74.66.43 at 2009-07-20 14:02:21) [GET]
+Rendering portal/index
+Completed in 354ms (View: 236, DB: 117) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 118.12.4.203 at 2009-07-20 14:02:22) [GET]
+Rendering portal/index
+Completed in 453ms (View: 352, DB: 101) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 219.94.177.41 at 2009-07-20 14:02:26) [GET]
+Rendering portal/index
+Completed in 286ms (View: 219, DB: 66) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 126.246.29.122 at 2009-07-20 14:02:42) [GET]
+Rendering portal/index
+Completed in 272ms (View: 213, DB: 59) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 118.12.9.246 at 2009-07-20 14:02:47) [GET]
+Rendering portal/index
+Completed in 421ms (View: 357, DB: 63) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 79.99.6.106 at 2009-07-20 14:02:51) [GET]
+Rendering portal/index
+Completed in 287ms (View: 218, DB: 68) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 58.88.128.122 at 2009-07-20 14:02:55) [GET]
+Rendering portal/index
+Completed in 273ms (View: 213, DB: 60) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 122.19.176.231 at 2009-07-20 14:03:03) [GET]
+Rendering portal/index
+Completed in 401ms (View: 207, DB: 194) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 79.99.6.106 at 2009-07-20 14:03:04) [GET]
+Rendering portal/index
+Completed in 295ms (View: 222, DB: 72) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 91.121.89.155 at 2009-07-20 14:03:06) [GET]
+Rendering portal/index
+Completed in 309ms (View: 244, DB: 64) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 221.133.99.61 at 2009-07-20 14:03:07) [GET]
+Rendering portal/index
+Completed in 268ms (View: 209, DB: 58) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.48.75.27 at 2009-07-20 14:03:12) [GET]
+Rendering portal/index
+Completed in 427ms (View: 358, DB: 69) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 219.105.152.100 at 2009-07-20 14:03:15) [GET]
+Rendering portal/index
+Completed in 280ms (View: 216, DB: 64) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 222.225.229.3 at 2009-07-20 14:03:16) [GET]
+Rendering portal/index
+Completed in 269ms (View: 211, DB: 58) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 123.224.144.51 at 2009-07-20 14:03:28) [GET]
+Rendering portal/index
+Completed in 419ms (View: 355, DB: 64) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 91.121.53.183 at 2009-07-20 14:03:33) [GET]
+Rendering portal/index
+Completed in 286ms (View: 220, DB: 66) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 84.17.129.60 at 2009-07-20 14:03:39) [GET]
+Rendering portal/index
+Completed in 273ms (View: 215, DB: 58) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.180.107.97 at 2009-07-20 14:03:52) [GET]
+Rendering portal/index
+Completed in 407ms (View: 347, DB: 60) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 118.237.147.115 at 2009-07-20 14:03:53) [GET]
+Rendering portal/index
+Completed in 293ms (View: 223, DB: 69) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 128.121.156.52 at 2009-07-20 14:04:00) [GET]
+Rendering portal/index
+Completed in 274ms (View: 213, DB: 60) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 219.94.177.41 at 2009-07-20 14:04:18) [GET]
+Rendering portal/index
+Completed in 400ms (View: 206, DB: 193) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.48.75.27 at 2009-07-20 14:04:50) [GET]
+Rendering portal/index
+Completed in 289ms (View: 219, DB: 69) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 67.202.2.193 at 2009-07-20 14:06:48) [GET]
+Rendering portal/index
+Completed in 277ms (View: 214, DB: 62) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 60.237.116.237 at 2009-07-20 14:06:50) [GET]
+Rendering portal/index
+Completed in 266ms (View: 207, DB: 58) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 219.105.152.100 at 2009-07-20 14:07:52) [GET]
+Rendering portal/index
+Completed in 424ms (View: 356, DB: 68) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 208.100.2.57 at 2009-07-20 14:08:06) [GET]
+Rendering portal/index
+Completed in 280ms (View: 216, DB: 63) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 203.178.139.193 at 2009-07-20 14:08:18) [GET]
+Rendering portal/index
+Completed in 267ms (View: 208, DB: 59) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 125.3.229.17 at 2009-07-20 14:17:47) [GET]
+Rendering portal/index
+Completed in 880ms (View: 728, DB: 76) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.149.116.240 at 2009-07-20 14:20:46) [GET]
+Rendering portal/index
+Completed in 282ms (View: 219, DB: 62) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 118.243.115.236 at 2009-07-20 14:21:24) [GET]
+Rendering portal/index
+Completed in 276ms (View: 214, DB: 62) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 115.165.87.224 at 2009-07-20 14:21:32) [GET]
+Rendering portal/index
+Completed in 421ms (View: 354, DB: 66) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 125.3.229.17 at 2009-07-20 14:26:45) [GET]
+Rendering portal/index
+Completed in 289ms (View: 222, DB: 66) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 125.3.229.17 at 2009-07-20 14:27:59) [GET]
+Rendering portal/index
+Completed in 277ms (View: 218, DB: 59) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 126.250.22.32 at 2009-07-20 14:34:28) [GET]
+Rendering portal/index
+Completed in 411ms (View: 350, DB: 60) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 220.96.67.3 at 2009-07-20 14:34:40) [GET]
+Rendering portal/index
+Completed in 291ms (View: 221, DB: 69) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.146.233.146 at 2009-07-20 14:46:49) [GET]
+Rendering portal/index
+Completed in 534ms (View: 459, DB: 71) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 133.25.179.27 at 2009-07-20 14:52:21) [GET]
+Rendering portal/index
+Completed in 467ms (View: 392, DB: 71) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 133.9.203.130 at 2009-07-20 15:01:07) [GET]
+Rendering portal/index
+Completed in 281ms (View: 218, DB: 62) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 124.110.99.25 at 2009-07-20 15:06:47) [GET]
+Rendering portal/index
+Completed in 271ms (View: 211, DB: 60) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 61.45.53.215 at 2009-07-20 15:26:25) [GET]
+Rendering portal/index
+Completed in 480ms (View: 389, DB: 87) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 202.218.147.251 at 2009-07-20 15:26:34) [GET]
+Rendering portal/index
+Completed in 294ms (View: 216, DB: 77) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 219.94.149.193 at 2009-07-20 15:26:37) [GET]
+Rendering portal/index
+Completed in 286ms (View: 211, DB: 75) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 202.224.22.126 at 2009-07-20 15:49:08) [GET]
+Rendering portal/index
+Completed in 830ms (View: 588, DB: 238) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 150.70.84.24 at 2009-07-20 15:51:36) [GET]
+Rendering portal/index
+Completed in 395ms (View: 282, DB: 113) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 123.224.144.51 at 2009-07-20 16:03:40) [GET]
+Rendering portal/index
+Completed in 497ms (View: 406, DB: 87) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.48.150.194 at 2009-07-20 16:42:10) [GET]
+Rendering portal/index
+Completed in 484ms (View: 392, DB: 88) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 17:23:24) [GET]
+Rendering portal/index
+Completed in 483ms (View: 393, DB: 86) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.158.60.18 at 2009-07-20 17:24:26) [GET]
+Rendering portal/index
+Completed in 338ms (View: 220, DB: 117) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing PortalController#index (for 114.146.233.146 at 2009-07-20 17:25:34) [GET]
+Rendering portal/index
+Completed in 427ms (View: 216, DB: 211) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing ApplicationController#index (for 66.249.68.103 at 2009-07-20 17:25:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/highslide/graphics/" with {:method=>:get}):
+  passenger (2.2.4) lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+  passenger (2.2.4) lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:376:in `start_request_handler'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:334:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/utils.rb:182:in `safe_fork'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:332:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:162:in `start'
+  passenger (2.2.4) lib/phusion_passenger/railz/application_spawner.rb:213:in `start'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:261:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:153:in `spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+  passenger (2.2.4) lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+
+Rendering /home/yuiseki/rails/geogeo/public/404.html (404 Not Found)
+
+
+Processing UsersController#index (for 114.48.63.173 at 2009-07-20 17:26:24) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 1268ms (View: 1210, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing PortalController#index (for 114.48.222.6 at 2009-07-20 17:27:16) [GET]
+Rendering portal/index
+Completed in 311ms (View: 226, DB: 85) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#index (for 114.48.150.194 at 2009-07-20 17:28:50) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 8ms (View: 6, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:28:56) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:29:20) [POST]
+  Parameters: {"user"=>{"name"=>"RailwaysGSM", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"RailwaysGSM", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/4
+Completed in 187ms (DB: 39) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:29:20) [GET]
+  Parameters: {"id"=>"4"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 5ms (View: 3, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/4]
+
+
+Processing UsersController#index (for 114.48.150.194 at 2009-07-20 17:29:26) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 9ms (View: 7, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:29:28) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:29:33) [POST]
+  Parameters: {"user"=>{"name"=>"natsumarron", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"natsumarron", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/5
+Completed in 123ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:29:34) [GET]
+  Parameters: {"id"=>"5"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/5]
+
+
+Processing UsersController#index (for 114.48.150.194 at 2009-07-20 17:29:40) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 11ms (View: 8, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:29:43) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:29:43) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:29:44) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:29:45) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:29:45) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:29:46) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:29:46) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:29:47) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:29:55) [POST]
+  Parameters: {"user"=>{"name"=>"y_ki", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"y_ki", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/6
+Completed in 124ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:29:55) [GET]
+  Parameters: {"id"=>"6"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/6]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:30:06) [POST]
+  Parameters: {"user"=>{"name"=>"qittu", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"qittu", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/7
+Completed in 132ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:30:06) [GET]
+  Parameters: {"id"=>"7"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/7]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:30:19) [POST]
+  Parameters: {"user"=>{"name"=>"kotamz", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"kotamz", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/8
+Completed in 309ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:30:19) [GET]
+  Parameters: {"id"=>"8"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/8]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:30:32) [POST]
+  Parameters: {"user"=>{"name"=>"wats", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"wats", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/9
+Completed in 131ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:30:32) [GET]
+  Parameters: {"id"=>"9"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/9]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:30:44) [POST]
+  Parameters: {"user"=>{"name"=>"cm3", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"cm3", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/10
+Completed in 221ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:30:44) [GET]
+  Parameters: {"id"=>"10"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/10]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:30:54) [POST]
+  Parameters: {"user"=>{"name"=>"dev_navi", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"dev_navi", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/11
+Completed in 165ms (DB: 27) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:30:55) [GET]
+  Parameters: {"id"=>"11"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/11]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:31:04) [POST]
+  Parameters: {"user"=>{"name"=>"minami1105", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"minami1105", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/12
+Completed in 101ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:31:05) [GET]
+  Parameters: {"id"=>"12"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 41ms (View: 2, DB: 38) | 200 OK [http://geogeo.yuiseki.net/users/12]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:31:15) [POST]
+  Parameters: {"user"=>{"name"=>"sanemat", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"sanemat", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/13
+Completed in 134ms (DB: 6) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:31:15) [GET]
+  Parameters: {"id"=>"13"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/13]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:31:20) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:31:21) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:31:21) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:31:23) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:31:24) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 17:31:24) [GET]
+Rendering portal/index
+Completed in 1238ms (View: 822, DB: 416) | 200 OK [http://geogeo.yuiseki.net/portal]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:31:26) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:31:33) [POST]
+  Parameters: {"user"=>{"name"=>"chollo", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"chollo", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/14
+Completed in 174ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:31:34) [GET]
+  Parameters: {"id"=>"14"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/14]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:32:19) [POST]
+  Parameters: {"user"=>{"name"=>"tkono1", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"tkono1", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/15
+Completed in 227ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:32:20) [GET]
+  Parameters: {"id"=>"15"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/15]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:32:30) [POST]
+  Parameters: {"user"=>{"name"=>"nakazato", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"nakazato", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/16
+Completed in 138ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:32:32) [GET]
+  Parameters: {"id"=>"16"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/16]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:32:38) [POST]
+  Parameters: {"user"=>{"name"=>"TadashiMoai", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"TadashiMoai", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/17
+Completed in 175ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:32:39) [GET]
+  Parameters: {"id"=>"17"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/17]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:32:54) [POST]
+  Parameters: {"user"=>{"name"=>"shinagaki", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"shinagaki", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/18
+Completed in 274ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:32:54) [GET]
+  Parameters: {"id"=>"18"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/18]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:33:14) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 4, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:33:15) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:33:15) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#new (for 114.48.150.194 at 2009-07-20 17:33:16) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://geogeo.yuiseki.net/users/new]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:33:33) [POST]
+  Parameters: {"user"=>{"name"=>"yookud", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"yookud", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/19
+Completed in 185ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:33:35) [GET]
+  Parameters: {"id"=>"19"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/19]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:33:49) [POST]
+  Parameters: {"user"=>{"name"=>"swimwims", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"swimwims", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/20
+Completed in 129ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:33:51) [GET]
+  Parameters: {"id"=>"20"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/20]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:34:00) [POST]
+  Parameters: {"user"=>{"name"=>"gaziro2000", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"gaziro2000", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/21
+Completed in 148ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:34:01) [GET]
+  Parameters: {"id"=>"21"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/21]
+
+
+Processing UsersController#create (for 114.48.150.194 at 2009-07-20 17:34:11) [POST]
+  Parameters: {"user"=>{"name"=>"tks", "flickr_id"=>"", "group_id"=>"1", "twitter_id"=>"tks", "flickr_feed_url"=>""}, "commit"=>"Create", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI="}
+Redirected to http://geogeo.yuiseki.net/users/22
+Completed in 153ms (DB: 0) | 302 Found [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:34:11) [GET]
+  Parameters: {"id"=>"22"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/22]
+
+
+Processing UsersController#index (for 114.48.150.194 at 2009-07-20 17:34:15) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 38ms (View: 32, DB: 3) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 17:34:30) [GET]
+Rendering portal/index
+Completed in 2127ms (View: 1185, DB: 942) | 200 OK [http://geogeo.yuiseki.net/portal]
+
+
+Processing UsersController#index (for 114.48.150.194 at 2009-07-20 17:36:08) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 37ms (View: 31, DB: 4) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#index (for 114.48.150.194 at 2009-07-20 17:36:22) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 36ms (View: 30, DB: 3) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 17:36:26) [GET]
+Rendering portal/index
+Completed in 2444ms (View: 1416, DB: 1028) | 200 OK [http://geogeo.yuiseki.net/portal]
+
+
+Processing PortalController#index (for 114.48.63.173 at 2009-07-20 17:36:34) [GET]
+Rendering portal/index
+Completed in 2290ms (View: 1261, DB: 1028) | 200 OK [http://geogeo.yuiseki.net/]
+
+
+Processing UsersController#edit (for 114.48.150.194 at 2009-07-20 17:36:40) [GET]
+  Parameters: {"id"=>"22"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 8ms (View: 6, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/22/edit]
+
+
+Processing UsersController#update (for 114.48.150.194 at 2009-07-20 17:37:10) [PUT]
+  Parameters: {"user"=>{"name"=>"tks", "flickr_id"=>"77492326@N00", "group_id"=>"1", "twitter_id"=>"tks", "flickr_feed_url"=>"feed://api.flickr.com/services/feeds/photos_public.gne?id=77492326@N00&lang=en-us&format=rss_200"}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"22"}
+Redirected to http://geogeo.yuiseki.net/users/22
+Completed in 150ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/22]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:37:13) [GET]
+  Parameters: {"id"=>"22"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 5ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/22]
+
+
+Processing UsersController#edit (for 114.48.150.194 at 2009-07-20 17:37:38) [GET]
+  Parameters: {"id"=>"22"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 6ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/22/edit]
+
+
+Processing UsersController#update (for 114.48.150.194 at 2009-07-20 17:37:46) [PUT]
+  Parameters: {"user"=>{"name"=>"tks", "flickr_id"=>"77492326@N00", "group_id"=>"1", "twitter_id"=>"tks", "flickr_feed_url"=>"http://api.flickr.com/services/feeds/photos_public.gne?id=77492326@N00&lang=en-us&format=rss_200"}, "commit"=>"Update", "authenticity_token"=>"OjeAqLJ+uPzgeMrpneOaN9dQ0LRaXYGROuknxcbdBmI=", "id"=>"22"}
+Redirected to http://geogeo.yuiseki.net/users/22
+Completed in 139ms (DB: 1) | 302 Found [http://geogeo.yuiseki.net/users/22]
+
+
+Processing UsersController#show (for 114.48.150.194 at 2009-07-20 17:37:47) [GET]
+  Parameters: {"id"=>"22"}
+Rendering template within layouts/users
+Rendering users/show
+Completed in 5ms (View: 2, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/22]
+
+
+Processing UsersController#index (for 114.48.150.194 at 2009-07-20 17:37:57) [GET]
+Rendering template within layouts/users
+Rendering users/index
+Completed in 39ms (View: 33, DB: 3) | 200 OK [http://geogeo.yuiseki.net/users]
+
+
+Processing UsersController#edit (for 114.48.150.194 at 2009-07-20 17:38:08) [GET]
+  Parameters: {"id"=>"19"}
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 7ms (View: 5, DB: 1) | 200 OK [http://geogeo.yuiseki.net/users/19/edit]
