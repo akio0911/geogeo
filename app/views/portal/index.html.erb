@@ -16,7 +16,7 @@
 
     <h3>つぶやき</h2>
     <% user.statuses.each do |status| %>
-    <%= link_to(status.status_text, status.url) %>
+    <%= link_to(status.status_text, "http://twitter.com/#{user.twitter_id}/status/#{status.status_id}") %>
     <% end %>
 
     <% end %>
