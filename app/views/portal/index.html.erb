@@ -1,3 +1,4 @@
+<% cell_color = ["#ddbbbb", "#ddccbb", "#ddddbb", "#ccddbb", "#bbddbb", "#bbddcc", "#bbdddd", "#bbccdd", "#bbccee"] %>
 <html>
   <head>
     <title>ジオジオスタンプラリー</title>
@@ -21,9 +22,10 @@
       <% end_time = now_time + 9.minute %>
       <tr>
 	<td><%=h "#{i}:#{j}0-#{i}:#{j}9" %></td>
+	<% group_index = 0 %>
 	<% @groups.each do |group| %>
 	<% group.users.each do |user| %>
-	<td>
+	<td style='background-color:<%=h cell_color[group_index] %>'>
     <% statuses = Status.find(:all,
                               :conditions => ["status_created_at between ? and ? and user_id = ?", now_time, end_time, user.id],
                               :order => "status_created_at DESC"
@@ -41,6 +43,7 @@
 	  
 	</td>
 	<% end %>
+	<% group_index = group_index + 1 %>
 	<% end %>
       </tr>
       <% end %>
